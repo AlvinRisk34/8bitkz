@@ -1,6 +1,6 @@
 # 📋 ELNIT — Умная приоритизация обращений граждан
 
-> AI-решение для отборочного этапа **[GovTech Camp](https://govtech.indrive.com/)**
+> AI-решение для отборочного этапа **[GovTech Camp]**
 >
 > **ELNIT** — Enhanced Local Network for Intelligent Triage
 
